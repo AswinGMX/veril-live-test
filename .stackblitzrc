@@ -1,0 +1,4 @@
+{
+  "installDependencies": false,
+  "startCommand": "node .veril/wait.cjs && npm install && node .veril/probe.cjs"
+}
